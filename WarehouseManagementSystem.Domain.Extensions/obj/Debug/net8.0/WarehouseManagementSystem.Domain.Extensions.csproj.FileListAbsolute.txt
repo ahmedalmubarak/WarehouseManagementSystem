@@ -1,0 +1,11 @@
+/Users/mymac/Documents/Programming/WarehouseManagementSystem/WarehouseManagementSystem.Domain.Extensions/bin/Debug/net8.0/WarehouseManagementSystem.Domain.Extensions.deps.json
+/Users/mymac/Documents/Programming/WarehouseManagementSystem/WarehouseManagementSystem.Domain.Extensions/bin/Debug/net8.0/WarehouseManagementSystem.Domain.Extensions.dll
+/Users/mymac/Documents/Programming/WarehouseManagementSystem/WarehouseManagementSystem.Domain.Extensions/bin/Debug/net8.0/WarehouseManagementSystem.Domain.Extensions.pdb
+/Users/mymac/Documents/Programming/WarehouseManagementSystem/WarehouseManagementSystem.Domain.Extensions/obj/Debug/net8.0/WarehouseManagementSystem.Domain.Extensions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mymac/Documents/Programming/WarehouseManagementSystem/WarehouseManagementSystem.Domain.Extensions/obj/Debug/net8.0/WarehouseManagementSystem.Domain.Extensions.AssemblyInfoInputs.cache
+/Users/mymac/Documents/Programming/WarehouseManagementSystem/WarehouseManagementSystem.Domain.Extensions/obj/Debug/net8.0/WarehouseManagementSystem.Domain.Extensions.AssemblyInfo.cs
+/Users/mymac/Documents/Programming/WarehouseManagementSystem/WarehouseManagementSystem.Domain.Extensions/obj/Debug/net8.0/WarehouseManagementSystem.Domain.Extensions.csproj.CoreCompileInputs.cache
+/Users/mymac/Documents/Programming/WarehouseManagementSystem/WarehouseManagementSystem.Domain.Extensions/obj/Debug/net8.0/WarehouseManagementSystem.Domain.Extensions.dll
+/Users/mymac/Documents/Programming/WarehouseManagementSystem/WarehouseManagementSystem.Domain.Extensions/obj/Debug/net8.0/refint/WarehouseManagementSystem.Domain.Extensions.dll
+/Users/mymac/Documents/Programming/WarehouseManagementSystem/WarehouseManagementSystem.Domain.Extensions/obj/Debug/net8.0/WarehouseManagementSystem.Domain.Extensions.pdb
+/Users/mymac/Documents/Programming/WarehouseManagementSystem/WarehouseManagementSystem.Domain.Extensions/obj/Debug/net8.0/ref/WarehouseManagementSystem.Domain.Extensions.dll

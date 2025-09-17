@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "hNU1IiCe4A8=",
+  "success": true,
+  "projectFilePath": "/Users/mymac/Documents/Programming/WarehouseManagementSystem/WarehouseManagementSystem.Domain/WarehouseManagementSystem.Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/mymac/.nuget/packages/microsoft.netcore.app.ref/8.0.20/microsoft.netcore.app.ref.8.0.20.nupkg.sha512",
+    "/Users/mymac/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.20/microsoft.aspnetcore.app.ref.8.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
