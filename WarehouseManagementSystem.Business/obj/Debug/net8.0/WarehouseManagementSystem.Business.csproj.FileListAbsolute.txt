@@ -13,3 +13,4 @@
 /Users/mymac/Documents/Programming/WarehouseManagementSystem/WarehouseManagementSystem.Business/obj/Debug/net8.0/refint/WarehouseManagementSystem.Business.dll
 /Users/mymac/Documents/Programming/WarehouseManagementSystem/WarehouseManagementSystem.Business/obj/Debug/net8.0/WarehouseManagementSystem.Business.pdb
 /Users/mymac/Documents/Programming/WarehouseManagementSystem/WarehouseManagementSystem.Business/obj/Debug/net8.0/ref/WarehouseManagementSystem.Business.dll
+/Users/mymac/Documents/Programming/WarehouseManagementSystem/WarehouseManagementSystem.Business/obj/Debug/net8.0/WarehouseManagementSystem.Business.sourcelink.json

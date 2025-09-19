@@ -19,3 +19,4 @@
 /Users/mymac/Documents/Programming/WarehouseManagementSystem/WarehouseManagementSystem/obj/Debug/net9.0/WarehouseManagementSystem.pdb
 /Users/mymac/Documents/Programming/WarehouseManagementSystem/WarehouseManagementSystem/obj/Debug/net9.0/WarehouseManagementSystem.genruntimeconfig.cache
 /Users/mymac/Documents/Programming/WarehouseManagementSystem/WarehouseManagementSystem/obj/Debug/net9.0/ref/WarehouseManagementSystem.dll
+/Users/mymac/Documents/Programming/WarehouseManagementSystem/WarehouseManagementSystem/obj/Debug/net9.0/WarehouseManagementSystem.sourcelink.json

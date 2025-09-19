@@ -9,3 +9,4 @@
 /Users/mymac/Documents/Programming/WarehouseManagementSystem/WarehouseManagementSystem.Domain/obj/Debug/net8.0/refint/WarehouseManagementSystem.Domain.dll
 /Users/mymac/Documents/Programming/WarehouseManagementSystem/WarehouseManagementSystem.Domain/obj/Debug/net8.0/WarehouseManagementSystem.Domain.pdb
 /Users/mymac/Documents/Programming/WarehouseManagementSystem/WarehouseManagementSystem.Domain/obj/Debug/net8.0/ref/WarehouseManagementSystem.Domain.dll
+/Users/mymac/Documents/Programming/WarehouseManagementSystem/WarehouseManagementSystem.Domain/obj/Debug/net8.0/WarehouseManagementSystem.Domain.sourcelink.json
